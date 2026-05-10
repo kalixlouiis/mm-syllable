@@ -1,4 +1,4 @@
-# 📑 mm-syllable: A simple, rule-based tool for Myanamr (Burmese) syllable segmentation.
+# 📑 mm-syllable: A simple, rule-based tool for Myanmar (Burmese) syllable segmentation.
 
 A lightweight, rule-based Burmese syllable tokenizer designed for accuracy and simplicity. Developed by **Khant Sint Heinn**.
 
@@ -47,7 +47,7 @@ If you use `mm-syllable` in your research or project, please cite it as follows:
 ```BibTeX
 @software{KhantSintHeinn_mmsyllable_2026,
   author = {{Khant Sint Heinn}},,
-  title = {mm-syllable: A simple, rule-based tool for Myanamr (Burmese) syllable segmentation.},
+  title = {mm-syllable: A simple, rule-based tool for Myanmar (Burmese) syllable segmentation.},
   url = {https://github.com/kalixlouiis/mm-syllable},
   version = {0.1.0},
   year = {2026}
