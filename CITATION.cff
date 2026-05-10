@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Khant Sint Heinn"
+title: "mm-syllable: A simple, rule-based tool for Myanmar (Burmese) syllable segmentation."
+version: 0.1.0
+date-released: 2026-05-10
+url: "https://github.com/kalixlouiis/mm-syllable"
